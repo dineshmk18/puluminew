@@ -1,0 +1,12 @@
+encryptionsalt: v1:RAwYU49Jq+8=:v1:VeBnnWQGcjIXfKmX:zLkzPEbE+9Ey/EUDYVNeXJqj195Oxg==
+config:
+  azure-native:location: eastus
+  pulumi_module:object_id: 81b26591-a390-4d22-aab1-962e6ed16a3d
+  pulumi_module:password: Rdinesh18@
+  pulumi_module:tenantId: 61cfae60-6982-468a-a800-5f5db1b1f2f5
+  pulumi_module:username: Rdinesh
+  pulumi_module:servername: mysqltestserver189
+  pulumi_module:dbname: dineshdb
+  pulumi_module:dbpassword: Dinesh18@
+  pulumi_module:rgname: myrg
+  pulumi_module:objectid: b00674f7-1a0a-41d0-a439-cac7342f22ad
